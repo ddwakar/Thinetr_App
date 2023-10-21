@@ -8,13 +8,13 @@
 
     "ng": "ng",
 
-    "start": "ng serve",
+    "start": "npm start",
 
-    "build": "ng build",
+    "build": "npm build",
 
-    "watch": "ng build --watch --configuration development",
+    "watch": "npm build --watch --configuration development",
 
-    "test": "ng test"
+    "test": "npm test"
 
   },
 
